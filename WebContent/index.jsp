@@ -25,7 +25,7 @@
 	<!-- Barra de Navegación superior -->
 	<nav class="navbar navbar-default">
 	<div class="container-fluid">
-		<ul class="navbar-nav">
+		<ul class="nav navbar-nav">
 			<li><a href="incluirEnCarrito">Carrito</a></li>
 			<li><a href="login.jsp">Login</a></li>
 			<li><a href="admin.jsp">Administrar productos</a></li>
