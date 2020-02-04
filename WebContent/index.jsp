@@ -54,7 +54,7 @@
 							href="incluirEnCarrito?producto=<c:out value="${producto.nombre}"/>"
 							class="btn btn-default"> <c:out value="${producto.precio}" />
 							€
-						</a>
+						</a> 
 					</div>
 				</div>
 			</c:forEach>
